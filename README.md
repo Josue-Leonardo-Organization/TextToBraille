@@ -21,4 +21,10 @@ O projeto proposto visa desenvolver um tradutor de texto para Braille, utilizand
 - 2 Botões
 - 6 Micro-Servos
 
+## Vídeo demonstrativo
+
+https://youtu.be/wbtmRmHsn7U
+
+[![Vídeo](https://img.youtube.com/vi/wbtmRmHsn7U/maxresdefault.jpg)](https://youtu.be/wbtmRmHsn7U)
+
 
